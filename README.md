@@ -1,7 +1,6 @@
 # os
-Operating System programs comps
-- First come first serve process scheduling program 
-- Shortest job first process scheduling program
+Operating System programs COMPS
+
 # Contributions Notice
 - Fork the repo
 - Add Comments and let others know what you did
